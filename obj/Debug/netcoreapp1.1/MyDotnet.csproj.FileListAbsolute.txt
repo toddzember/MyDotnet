@@ -1,0 +1,8 @@
+/Users/todd/Documents/SampleCode/MyDotnet/bin/Debug/netcoreapp1.1/MyDotnet.deps.json
+/Users/todd/Documents/SampleCode/MyDotnet/bin/Debug/netcoreapp1.1/MyDotnet.runtimeconfig.json
+/Users/todd/Documents/SampleCode/MyDotnet/bin/Debug/netcoreapp1.1/MyDotnet.runtimeconfig.dev.json
+/Users/todd/Documents/SampleCode/MyDotnet/bin/Debug/netcoreapp1.1/MyDotnet.dll
+/Users/todd/Documents/SampleCode/MyDotnet/bin/Debug/netcoreapp1.1/MyDotnet.pdb
+/Users/todd/Documents/SampleCode/MyDotnet/obj/Debug/netcoreapp1.1/MyDotnet.AssemblyInfo.cs
+/Users/todd/Documents/SampleCode/MyDotnet/obj/Debug/netcoreapp1.1/MyDotnet.dll
+/Users/todd/Documents/SampleCode/MyDotnet/obj/Debug/netcoreapp1.1/MyDotnet.pdb
